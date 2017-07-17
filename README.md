@@ -1,2 +1,4 @@
-# ChildFloatScrollView
-ScrollView滑到某个距离时,其中的某个子view悬浮的效果的自定义ScrollView
+## ChildFloatScrollView
+
+###效果如图
+![](image_read_me.gif)
